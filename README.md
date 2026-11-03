@@ -11,4 +11,4 @@ I love games, I’m inspired by nature, and powered by questionable amounts of e
 Currently, I’m developing my portfolio to showcase my skills and projects.
 
 * 🌍  I'm based in Luxembourg
-* 🚀  I'm currently working on [paperless](http://github.com/MAGALVIUS/paperless)
+* 🚀  I'm currently working on [paperless](http://github.com/MAGALVIUS/Janus_1.0)
